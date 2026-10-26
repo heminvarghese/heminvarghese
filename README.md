@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a B.Sc. Digital and Cyber Forensic Science student (graduating May 2027) looking for a SOC Analyst role. I enjoy the defensive side of cybersecurity: monitoring systems, investigating alerts, hunting for threats and understanding how attacks work so they can be stopped.
+I'm a B.Sc. Digital and Cyber Forensic Science Final-Year student (graduating May 2027) looking for a SOC Analyst role. I enjoy the defensive side of cybersecurity: monitoring systems, investigating alerts, hunting for threats and understanding how attacks work so they can be stopped.
 
 I have hands-on experience setting up and running a SIEM home lab, analysing logs, and investigating phishing and ransomware incidents. I am currently building my skills further through TryHackMe and Hack The Box.
 
